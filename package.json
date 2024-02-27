@@ -1,0 +1,33 @@
+{
+  "name": "pinjam-dulu-seratus",
+  "version": "1.0.0",
+  "description": "test learn coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalu017/pinjam-dulu-seratus.git"
+  },
+  "keywords": [
+    "\"console",
+    "log",
+    "colors\"",
+    "\"colorify",
+    "logs\""
+  ],
+  "author": "jalu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalu017/pinjam-dulu-seratus/issues"
+  },
+  "homepage": "https://github.com/jalu017/pinjam-dulu-seratus#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "yargs": "^17.7.2"
+  }
+}
